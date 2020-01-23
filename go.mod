@@ -1,3 +1,3 @@
-module github.com/decred/go-socks
+module github.com/Eacred/go-socks
 
 go 1.11

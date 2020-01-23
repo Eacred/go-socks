@@ -1,4 +1,4 @@
-// Copyright (c) 2019 The Decred developers
+// Copyright (c) 2019 The Eacred developers
 // Use of this source code is governed by a 3-clause BSD
 // license that can be found in the LICENSE file.
 
